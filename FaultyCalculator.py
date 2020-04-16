@@ -1,6 +1,6 @@
 # Faulty Calculator
 
-# 45 * 3 = 345 \\ 78/9 = 67\\ 67+78 = 678
+# 45 * 3 = 345 \\ 78/9 = 67\\ 67+78 = 678 ....
 
 print("Enter First Number For Calculation")
 num1 = int(input())
